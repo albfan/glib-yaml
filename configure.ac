@@ -1,6 +1,8 @@
 AC_INIT([libglib-yaml], [1.0.6], [])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 
+AM_PROG_AR
+
 AM_SILENT_RULES([yes])
 
 AC_PROG_CC
