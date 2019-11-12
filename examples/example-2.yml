@@ -1,1 +1,2 @@
-howdy: hi
+- &hehe [ howdy, hi ]
+- *hehe
